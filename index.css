@@ -21,8 +21,8 @@ img {width: 300px}
     /* position: fixed;
     bottom: 100px; */
 
-    /* position: sticky;
-    top: 0px; */
+    position: sticky;
+    top: 0px;
 
 
 }
@@ -41,7 +41,7 @@ img {width: 300px}
  }
 
  .child {
-    position: absolute;
+    position: fixed;
     top: 100px;
     font-size: 24px;
     background-color: red;
